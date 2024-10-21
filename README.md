@@ -1,4 +1,4 @@
-# README - Frontier Data Scientist Interview Task: Domestic Energy Usage
+# Domestic Energy Usage
 
 This repository contains the code and analysis output of the domestic energy usage in England and Wales. Follow the steps below to reproduce the analysis.
 
